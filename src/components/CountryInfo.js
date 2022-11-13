@@ -35,6 +35,7 @@ const CountryInfo = () => {
   return (
     <div>
       <Autocomplete
+        className="autocomplete"
         options={capital}
         filterOptions={filterOptions}
         renderInput={(params) => <TextField {...params} label="Capital" />}
