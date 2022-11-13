@@ -2,6 +2,7 @@
 
 - **Used Autocomplete component from Material UI Library.**
 - **Fetched the list of countries using actual open source API.**
-![image](https://user-images.githubusercontent.com/63850631/201528189-e24be2a7-8279-42fd-a76b-9c24b486b979.png)
-![image](https://user-images.githubusercontent.com/63850631/201528194-a9961c61-236a-4849-8ae7-47b6f8d42fa5.png)
-![image](https://user-images.githubusercontent.com/63850631/201528203-657096dc-2fb8-4af6-a782-b92fafb7090b.png)
+- **Completed the User Action 1 and User Action 2 requirements.**
+![image](https://user-images.githubusercontent.com/63850631/201528641-115831f5-44c9-41dc-9f82-38f9897145dc.png)
+![image](https://user-images.githubusercontent.com/63850631/201528656-8dacd3ef-d114-4e0a-afcb-b2fcf8c1bdab.png)
+![image](https://user-images.githubusercontent.com/63850631/201528666-1652a698-b012-40f9-92ea-5f4771670f18.png)
